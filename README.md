@@ -25,7 +25,7 @@ O modelo utiliza uma janela de tempo (Sliding Window) de 60 dias para prever o v
 
 ## ⚙️ Como Executar o Projeto (Via Docker)
 
-Certifique-se de que possui o **Docker Desktop** instalado e a correr na sua máquina.
+Certifique-se de que possui o **Docker Desktop** instalado e a rodando na sua máquina.
 
 **1. Construir a imagem Docker:**
 ```bash
