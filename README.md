@@ -1,6 +1,6 @@
 # Tech Challenge Fase 4 - Predição de Ações com Deep Learning (LSTM)
 
-Este projeto é a entrega final do Tech Challenge da Fase 4 da Pós-Graduação em Machine Learning Engineering. O objetivo é criar um modelo preditivo utilizando redes neurais Long Short-Term Memory (LSTM) para prever o valor de fechamento das ações da Petrobras (PETR4.SA) e realizar o deploy do modelo através de uma API conteinerizada.
+Este projeto é a entrega do Tech Challenge da Fase 4 da Pós-Graduação em Machine Learning Engineering. O objetivo é criar um modelo preditivo utilizando redes neurais Long Short-Term Memory (LSTM) para prever o valor de fechamento das ações da Petrobras (PETR4.SA) e realizar o deploy do modelo através de uma API conteinerizada.
 
 ## 🚀 Tecnologias Utilizadas
 * **Linguagem:** Python 3.10
